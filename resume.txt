@@ -1,0 +1,22 @@
+my name: MEOW MEOW Ч
+КОНХТАНКТУНАЯ ИНФИРМАЦИЯ: https://steamcommunity.com/id/yamadda/
+
+
+testing_repository
+/Hello.txt
+VladisRave
+VladisRave
+change Hello.txt file
+6e5d213
+ · 
+22 minutes ago
+
+Code
+
+Blame
+5 lines (4 loc) · 121 Bytes
+Имя: Написали
+Фамилия: Написали
+Хобби: It is my first repository. I am trying!
+
+2025-н.в
